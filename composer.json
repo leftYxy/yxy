@@ -2,6 +2,12 @@
     "name": "yaoxy-d/plt-common",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "yaoxy",
+            "email": "791903600@qq.com"
+        }
+    ],
     "keywords": [
         "php",
         "hyperf"

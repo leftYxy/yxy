@@ -1,6 +1,3 @@
-# component-creator
+# plt-common
 
-```
-composer create-project hyperf/component-creator
-```
 # yxy
