@@ -1,6 +1,7 @@
 {
     "name": "yaoxy-d/plt-common",
     "type": "library",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
